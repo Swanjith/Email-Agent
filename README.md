@@ -22,13 +22,6 @@ The agent performs the following steps:
 - LangGraph
 - Pydantic
 
-## Project files
-
-- `ollama_email_agent.ipynb` - main notebook containing the workflow
-- `requirements.txt` - Python dependencies
-- `credentials.json` - Google OAuth client credentials
-- `token.json` - OAuth access token generated after authentication
-- `.gitignore` - excludes sensitive files and local environment data
 
 ## Requirements
 
